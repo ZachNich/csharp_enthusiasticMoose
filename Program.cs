@@ -13,60 +13,21 @@ namespace EnthusiasticMoose
             MooseSays("H I, I'M  E N T H U S I A S T I C !");
             MooseSays("But I'm not always that way.");
 
-            CanadaQuestion();
-            EnthusiasticQuestion();
-            LoveCSharpQuestion();
-            SecretQuestion();
+            QuestionMoose("Is Canada real?", "Really? It seems very unlikely.", "I  K N E W  I T !!!");
+            QuestionMoose("Are you enthusiastic?", "Yay!", "You should try it!");
+            QuestionMoose("Do you love C# yet?", "Good job sucking up to your instructor!", "You will...oh, yes, you will...");
+            QuestionMoose("Do you want to know a secret?", "ME TOO!!!! I love secrets...tell me one!", "Oh, no...secrets are the best, I love to share them!");
         }
 
-        static void CanadaQuestion()
+        static void QuestionMoose(string question, string yesResponse, string noResponse)
         {
-            bool isTrue = MooseAsks("Is Canada real?");
+            bool isTrue = MooseAsks(question);
             if (isTrue)
             {
-                MooseSays("Really? It seems very unlikely.");
+                MooseSays(yesResponse);
             }
             else {
-                MooseSays("I  K N E W  I T !");
-            }
-        }
-
-        static void EnthusiasticQuestion()
-        {
-            bool isEnthusiastic = MooseAsks("Are you enthusiastic?");
-            if (isEnthusiastic)
-            {
-                MooseSays("Yay!");
-            }
-            else
-            {
-                MooseSays("You should try it!");
-            }
-        }
-
-        static void LoveCSharpQuestion()
-        {
-            bool doesLoveCSharp = MooseAsks("Do you love C# yet?");
-            if (doesLoveCSharp)
-            {
-                MooseSays("Good job sucking up to your instructor!");
-            }
-            else
-            {
-                MooseSays("You will...oh, yes, you will...");
-            }
-        }
-
-        static void SecretQuestion()
-        {
-            bool isEverythingFine = MooseAsks("Do you want to know a secret?");
-            if (isEverythingFine)
-            {
-                MooseSays("ME TOO!!!! I love secrets...tell me one!");
-            }
-            else
-            {
-                MooseSays("Oh, no...secrets are the best, I love to share them!");
+                MooseSays(noResponse);
             }
         }
 
