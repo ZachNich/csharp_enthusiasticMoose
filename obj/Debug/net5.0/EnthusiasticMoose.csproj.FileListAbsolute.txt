@@ -1,0 +1,16 @@
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/EnthusiasticMoose
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/EnthusiasticMoose.deps.json
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/EnthusiasticMoose.runtimeconfig.json
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/EnthusiasticMoose.runtimeconfig.dev.json
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/EnthusiasticMoose.dll
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/ref/EnthusiasticMoose.dll
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/bin/Debug/net5.0/EnthusiasticMoose.pdb
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.csprojAssemblyReference.cache
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.GeneratedMSBuildEditorConfig.editorconfig
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.AssemblyInfoInputs.cache
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.AssemblyInfo.cs
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.csproj.CoreCompileInputs.cache
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.dll
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/ref/EnthusiasticMoose.dll
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.pdb
+/home/zach/workspace/cs_exercises/EnthusiasticMoose/obj/Debug/net5.0/EnthusiasticMoose.genruntimeconfig.cache
